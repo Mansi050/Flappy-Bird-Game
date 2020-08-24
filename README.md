@@ -1,4 +1,4 @@
-# Flappy-Bird-Gmae
+# Flappy-Bird-Game
 This is similar to classic game FLAPPY BIRD.
 
 # Technologies 
